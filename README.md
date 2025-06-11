@@ -1,2 +1,4 @@
 # apnacollege-demo
-this creating a git repo
+this is creating a git repo
+<br>
+author is me
